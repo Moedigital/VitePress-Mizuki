@@ -1,0 +1,25 @@
+{
+  "name": "vitepress-mizuki",
+  "version": "1.4.46",
+  "description": "A cute ACG theme style VitePress blog theme",
+  "main": "index.js",
+  "author": "YuxiangWang_0525",
+  "license": "MIT License",
+  "devDependencies": {
+    "@iconify/vue": "^4.1.2",
+    "less": "^4.2.0",
+    "vite-plugin-vuetify": "^2.0.4",
+    "vitepress": "^1.3.1",
+    "vue": "^3.4.35"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev blog",
+    "docs:build": "vitepress build blog",
+    "docs:preview": "vitepress preview blog"
+  },
+  "dependencies": {
+    "aplayer": "^1.10.1",
+    "vue3-live2d": "^0.0.1",
+    "vuetify": "^3.6.14"
+  }
+}
