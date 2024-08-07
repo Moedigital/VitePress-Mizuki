@@ -1,3 +1,7 @@
+---
+home: true
+---
+
 # VitePress Mizuki
 > 一个可爱的ACG主题风格VitePress博客主题  
 > A lovely ACG theme style VitePress blog theme
@@ -15,3 +19,8 @@ npm install
 ```bash
 npm run docs:dev
 ```
+## 依赖
+- [vuetify](https://vuetifyjs.com/)
+- [vue3-live2d](https://github.com/YiguiDing/vue3-live2d)
+- [iconify](https://iconify.design/)
+- [aplayer](https://aplayer.js.org/)
