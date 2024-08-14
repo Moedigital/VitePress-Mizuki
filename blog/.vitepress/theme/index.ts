@@ -7,7 +7,7 @@ import 'vuetify/styles'
 import { createVuetify } from 'vuetify'
 import * as components from 'vuetify/components'
 import * as directives from 'vuetify/directives'
-console.log('VitePress Mizuki - VitePress ACG style blog theme'+'\nBeta 1.4.46'+'\nMoedigital OpenSource');
+console.log('VitePress Mizuki - VitePress ACG style articles theme'+'\nRelease 1.5.0 Boycott SCLA'+'\nMoedigital OpenSource');
 const vuetify = createVuetify({
   components,
   directives,

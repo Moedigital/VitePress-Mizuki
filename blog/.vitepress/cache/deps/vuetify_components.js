@@ -1,4 +1,22 @@
 import {
+  IconValue,
+  VClassIcon,
+  VComponentIcon,
+  VLigatureIcon,
+  VSvgIcon,
+  VuetifyLayoutKey,
+  createLayout,
+  getWeek,
+  makeLayoutItemProps,
+  makeLayoutProps,
+  useDate,
+  useGoTo,
+  useIcon,
+  useLayout,
+  useLayoutItem,
+  useResizeObserver
+} from "./chunk-RORLK4FR.js";
+import {
   MaybeTransition,
   Ripple,
   Touch,
@@ -25,25 +43,7 @@ import {
   useRouter,
   useScopeId,
   useTextColor
-} from "./chunk-HJIBXDYC.js";
-import {
-  IconValue,
-  VClassIcon,
-  VComponentIcon,
-  VLigatureIcon,
-  VSvgIcon,
-  VuetifyLayoutKey,
-  createLayout,
-  getWeek,
-  makeLayoutItemProps,
-  makeLayoutProps,
-  useDate,
-  useGoTo,
-  useIcon,
-  useLayout,
-  useLayoutItem,
-  useResizeObserver
-} from "./chunk-7DC7BPN5.js";
+} from "./chunk-OHTLPBNZ.js";
 import {
   CircularBuffer,
   EventProp,
@@ -131,7 +131,7 @@ import {
   useTheme,
   useToggleScope,
   wrapInArray
-} from "./chunk-6HW37BVU.js";
+} from "./chunk-67Q3RIIN.js";
 import {
   Fragment,
   Suspense,
