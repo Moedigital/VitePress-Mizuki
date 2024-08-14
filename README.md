@@ -7,7 +7,7 @@ home: true
 > A lovely ACG theme style VitePress blog theme
 
 ### 特性
-全面遵循ECMAScript 6标准,依赖全组件化 **不使用unpkg等JavaScript CDN**
+全面遵循ECMAScript 6标准,依赖全组件化 **不使用unpkg等JavaScript CDN** 资源本站加载,打开速度快
 
 Mizuki的名字来源自[世界计划中的晓山瑞希](https://pjsekai.sega.jp/character/unite05/mizuki/index.html) 他喜欢一切可爱的东西,本主题就是以可爱为主。
 ## Demo
@@ -20,7 +20,7 @@ npm install
 ```
 ## 使用
 ```bash
-npm run docs:dev
+npm run dev
 ```
 ## 依赖
 - [vuetify](https://vuetifyjs.com/)
