@@ -36,6 +36,8 @@ npm run dev
 - 添加自动侧边栏
 
 [详细](https://x.com/Moedigital2022/status/1823382819844022710)
+
+[![Page Views Count](https://badges.toozhao.com/badges/01J9QBPS4X4H7S0VHWZVH7P5WT/green.svg)](https://badges.toozhao.com/stats/01J9QBPS4X4H7S0VHWZVH7P5WT "Get your own page views count badge on badges.toozhao.com")
 ### 1.4 L·O·V·E Mizuki
 - 首次仓库公开
 - 添加了Live2D看板娘
